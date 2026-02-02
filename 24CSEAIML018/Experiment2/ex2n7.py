@@ -1,0 +1,10 @@
+a=5
+b="Pranjal"
+c=34.18
+d=True
+e=5+8j
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
